@@ -13,8 +13,8 @@ This is a **High-Performance Gaming Platform** built with a **Java MVC** archite
 - Data analytics and reporting
 
 ## Features
-1. **Front-end**: JSP-based views (serves dynamic web pages).
-2. **Back-end**: Spring framework handles business logic and request/response flow.
+1. **Front-end**: React.
+2. **Back-end**: SpringBoot framework handles business logic and request/response flow.
 3. **Databases**:
    - **Redis**: In-memory data store for frequently accessed or cached data.
    - **MySQL**: Persistent storage for user information, game details, and other transactional data.

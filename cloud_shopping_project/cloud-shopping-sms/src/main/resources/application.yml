@@ -28,9 +28,3 @@ eureka:
   instance:
     prefer-ip-address: true
     ip-address: 127.0.0.1
-#
-#sms:
-#    accessKeyId: YourId
-#    accessKeySecret: YourSecret
-#    signName: Cloud
-#    verifyCodeTemplate: YourCode

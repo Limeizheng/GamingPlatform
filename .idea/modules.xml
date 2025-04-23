@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud_shopping_project/cloud-shopping-auth-center/cloud-shopping-auth-center.iml" filepath="$PROJECT_DIR$/cloud_shopping_project/cloud-shopping-auth-center/cloud-shopping-auth-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_shopping_project/cloud-shopping-item/cloud-shopping-item.iml" filepath="$PROJECT_DIR$/cloud_shopping_project/cloud-shopping-item/cloud-shopping-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_shopping_project/cloud-shopping-user/cloud-shopping-user.iml" filepath="$PROJECT_DIR$/cloud_shopping_project/cloud-shopping-user/cloud-shopping-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/shop-v20.iml" filepath="$PROJECT_DIR$/.idea/shop-v20.iml" />
+    </modules>
+  </component>
+</project>

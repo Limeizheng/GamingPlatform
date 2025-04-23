@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-shopping-sms" />
+        <module name="cloud-shopping-gateway" />
+        <module name="cloud-shopping-user-service" />
+        <module name="cloud-shopping-cart" />
+        <module name="cloud-shopping-order" />
+        <module name="cloud-shopping-common" />
+        <module name="cloud-shopping-page" />
+        <module name="cloud-shopping-auth-service" />
+        <module name="cloud-shopping-item-interface" />
+        <module name="cloud-shopping-user-interface" />
+        <module name="cloud-shopping-item-service" />
+        <module name="cloud-shopping-auth-common" />
+        <module name="cloud-shopping-upload" />
+        <module name="cloud-shopping-search" />
+        <module name="cloud-shopping-registry" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cloud-shopping-auth-common" options="-parameters" />
+      <module name="cloud-shopping-auth-service" options="-parameters" />
+      <module name="cloud-shopping-cart" options="-parameters" />
+      <module name="cloud-shopping-common" options="-parameters" />
+      <module name="cloud-shopping-gateway" options="-parameters" />
+      <module name="cloud-shopping-item-interface" options="-parameters" />
+      <module name="cloud-shopping-item-service" options="-parameters" />
+      <module name="cloud-shopping-order" options="-parameters" />
+      <module name="cloud-shopping-page" options="-parameters" />
+      <module name="cloud-shopping-registry" options="-parameters" />
+      <module name="cloud-shopping-search" options="-parameters" />
+      <module name="cloud-shopping-sms" options="-parameters" />
+      <module name="cloud-shopping-upload" options="-parameters" />
+      <module name="cloud-shopping-user-interface" options="-parameters" />
+      <module name="cloud-shopping-user-service" options="-parameters" />
+    </option>
+  </component>
+</project>

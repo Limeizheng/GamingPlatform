@@ -30,7 +30,7 @@ eureka:
     ip-address: 127.0.0.1
 
 sms:
-    accessKeyId: LTAIsWzGHfExHdcV
-    accessKeySecret: xKPhTCRj3Nlbyl1dPy3rmbaKqGVouh
-    signName: Cloud商城
-    verifyCodeTemplate: SMS_164150583
+    accessKeyId: YourId
+    accessKeySecret: YourSecret
+    signName: Cloud
+    verifyCodeTemplate: YourCode
